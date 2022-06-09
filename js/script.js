@@ -1,5 +1,5 @@
 window.addEventListener("load", () =>{
-  document.querySelector("loading").style.display="none"
+  document.querySelector(".loading").style.display="none"
 })
 
 const barger = document.getElementById('btn-barger')
