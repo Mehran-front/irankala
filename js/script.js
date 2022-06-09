@@ -1,3 +1,7 @@
+window.addEventListener("load", () =>{
+  document.querySelector("loading").style.display="none"
+})
+
 const barger = document.getElementById('btn-barger')
 const mobileList = document.querySelector('#header-mobile-list')
 const mobileListBack = document.querySelector('#ML-back')
